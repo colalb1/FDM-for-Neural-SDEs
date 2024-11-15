@@ -1,4 +1,4 @@
-# Neural SDEs
+# Finite Dimensional Matching for Neural SDEs
 
 This is a work in progress to reproduce [this paper](https://arxiv.org/abs/2410.03973). Said paper is based off of [this paper](https://arxiv.org/abs/2102.03657) whose code is in [this repo](https://github.com/google-research/torchsde/blob/master/examples/sde_gan.py). 
 
